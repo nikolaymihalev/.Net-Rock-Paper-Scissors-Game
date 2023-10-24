@@ -1,1 +1,1 @@
-# C-Rock-Paper-Scissors-Game
+.Net-Rock-Paper-Scissors-Game
