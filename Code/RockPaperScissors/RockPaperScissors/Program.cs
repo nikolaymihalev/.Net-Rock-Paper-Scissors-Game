@@ -1,3 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+const string Paper = "Paper";
+const string Rock = "Rock";
+const string Scissors = "Scissors";
 
-Console.WriteLine("Hello, World!");
+string playerChoice=String.Empty;
+string computerChoice=String.Empty;
