@@ -45,3 +45,15 @@ else
         }
     }
 }
+
+Random r=new Random();
+int randomNumber=r.Next(1,4);
+switch (randomNumber)
+{
+    case 1:
+        computerChoice = Paper;break;
+    case 2:
+        computerChoice = Rock;break;
+    case 3:
+        computerChoice = Scissors;break;
+}
